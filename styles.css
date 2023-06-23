@@ -85,7 +85,12 @@ model-viewer {
 h1, h2{
     text-align: center;
   }
-
+.scanme{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+  }
 @keyframes circle {
   from { transform: translateX(-50%) rotate(0deg) translateX(50px) rotate(0deg); }
   to   { transform: translateX(-50%) rotate(360deg) translateX(50px) rotate(-360deg); }
