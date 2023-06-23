@@ -82,7 +82,7 @@ model-viewer {
   outline: 1px solid #4285f4;
 }
 
-h1, h2{
+h1, h2, p{
     text-align: center;
   }
 .scanme{
