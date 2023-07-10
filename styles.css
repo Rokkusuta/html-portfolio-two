@@ -82,7 +82,7 @@ model-viewer {
   outline: 1px solid #4285f4;
 }
 
- h1, h2, p{
+ h1, h2, p, img{
     text-align: center;
   }
 
